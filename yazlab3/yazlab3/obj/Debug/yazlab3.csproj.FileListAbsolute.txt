@@ -1,0 +1,40 @@
+C:\Users\Baran\source\repos\yazlab3\yazlab3\bin\Debug\yazlab3.exe.config
+C:\Users\Baran\source\repos\yazlab3\yazlab3\bin\Debug\yazlab3.exe
+C:\Users\Baran\source\repos\yazlab3\yazlab3\bin\Debug\yazlab3.pdb
+C:\Users\Baran\source\repos\yazlab3\yazlab3\obj\Debug\yazlab3.csprojAssemblyReference.cache
+C:\Users\Baran\source\repos\yazlab3\yazlab3\obj\Debug\yazlab3.Form1.resources
+C:\Users\Baran\source\repos\yazlab3\yazlab3\obj\Debug\yazlab3.Properties.Resources.resources
+C:\Users\Baran\source\repos\yazlab3\yazlab3\obj\Debug\yazlab3.csproj.GenerateResource.cache
+C:\Users\Baran\source\repos\yazlab3\yazlab3\obj\Debug\yazlab3.csproj.CoreCompileInputs.cache
+C:\Users\Baran\source\repos\yazlab3\yazlab3\obj\Debug\yazlab3.exe
+C:\Users\Baran\source\repos\yazlab3\yazlab3\obj\Debug\yazlab3.pdb
+C:\Users\Baran\Desktop\yazlab3\yazlab3\yazlab3\bin\Debug\yazlab3.exe.config
+C:\Users\Baran\Desktop\yazlab3\yazlab3\yazlab3\bin\Debug\yazlab3.exe
+C:\Users\Baran\Desktop\yazlab3\yazlab3\yazlab3\bin\Debug\yazlab3.pdb
+C:\Users\Baran\Desktop\yazlab3\yazlab3\yazlab3\obj\Debug\yazlab3.csprojAssemblyReference.cache
+C:\Users\Baran\Desktop\yazlab3\yazlab3\yazlab3\obj\Debug\yazlab3.Form1.resources
+C:\Users\Baran\Desktop\yazlab3\yazlab3\yazlab3\obj\Debug\yazlab3.Properties.Resources.resources
+C:\Users\Baran\Desktop\yazlab3\yazlab3\yazlab3\obj\Debug\yazlab3.csproj.GenerateResource.cache
+C:\Users\Baran\Desktop\yazlab3\yazlab3\yazlab3\obj\Debug\yazlab3.csproj.CoreCompileInputs.cache
+C:\Users\Baran\Desktop\yazlab3\yazlab3\yazlab3\obj\Debug\yazlab3.exe
+C:\Users\Baran\Desktop\yazlab3\yazlab3\yazlab3\obj\Debug\yazlab3.pdb
+C:\Users\ABY\Desktop\Eğitim\Ödevler\ödevler\yuv\yazlab3\yazlab3\bin\Debug\yazlab3.exe.config
+C:\Users\ABY\Desktop\Eğitim\Ödevler\ödevler\yuv\yazlab3\yazlab3\bin\Debug\yazlab3.exe
+C:\Users\ABY\Desktop\Eğitim\Ödevler\ödevler\yuv\yazlab3\yazlab3\bin\Debug\yazlab3.pdb
+C:\Users\ABY\Desktop\Eğitim\Ödevler\ödevler\yuv\yazlab3\yazlab3\obj\Debug\yazlab3.csprojAssemblyReference.cache
+C:\Users\ABY\Desktop\Eğitim\Ödevler\ödevler\yuv\yazlab3\yazlab3\obj\Debug\yazlab3.Form1.resources
+C:\Users\ABY\Desktop\Eğitim\Ödevler\ödevler\yuv\yazlab3\yazlab3\obj\Debug\yazlab3.Properties.Resources.resources
+C:\Users\ABY\Desktop\Eğitim\Ödevler\ödevler\yuv\yazlab3\yazlab3\obj\Debug\yazlab3.csproj.GenerateResource.cache
+C:\Users\ABY\Desktop\Eğitim\Ödevler\ödevler\yuv\yazlab3\yazlab3\obj\Debug\yazlab3.csproj.CoreCompileInputs.cache
+C:\Users\ABY\Desktop\Eğitim\Ödevler\ödevler\yuv\yazlab3\yazlab3\obj\Debug\yazlab3.exe
+C:\Users\ABY\Desktop\Eğitim\Ödevler\ödevler\yuv\yazlab3\yazlab3\obj\Debug\yazlab3.pdb
+C:\Users\ABY\Desktop\Eğitim\Okul Projeler\ödevler\yuv\yazlab3\yazlab3\bin\Debug\yazlab3.exe.config
+C:\Users\ABY\Desktop\Eğitim\Okul Projeler\ödevler\yuv\yazlab3\yazlab3\bin\Debug\yazlab3.exe
+C:\Users\ABY\Desktop\Eğitim\Okul Projeler\ödevler\yuv\yazlab3\yazlab3\bin\Debug\yazlab3.pdb
+C:\Users\ABY\Desktop\Eğitim\Okul Projeler\ödevler\yuv\yazlab3\yazlab3\obj\Debug\yazlab3.csprojAssemblyReference.cache
+C:\Users\ABY\Desktop\Eğitim\Okul Projeler\ödevler\yuv\yazlab3\yazlab3\obj\Debug\yazlab3.Form1.resources
+C:\Users\ABY\Desktop\Eğitim\Okul Projeler\ödevler\yuv\yazlab3\yazlab3\obj\Debug\yazlab3.Properties.Resources.resources
+C:\Users\ABY\Desktop\Eğitim\Okul Projeler\ödevler\yuv\yazlab3\yazlab3\obj\Debug\yazlab3.csproj.GenerateResource.cache
+C:\Users\ABY\Desktop\Eğitim\Okul Projeler\ödevler\yuv\yazlab3\yazlab3\obj\Debug\yazlab3.csproj.CoreCompileInputs.cache
+C:\Users\ABY\Desktop\Eğitim\Okul Projeler\ödevler\yuv\yazlab3\yazlab3\obj\Debug\yazlab3.exe
+C:\Users\ABY\Desktop\Eğitim\Okul Projeler\ödevler\yuv\yazlab3\yazlab3\obj\Debug\yazlab3.pdb
